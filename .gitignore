@@ -1,0 +1,33 @@
+# Carpetas generadas por Node.js
+node_modules/
+dist/
+coverage/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.production
+
+# Archivos temporales y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE y editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs y bases de datos locales
+*.log
+*.sqlite
+
+# Otros archivos temporales
+*.tmp
+*.swp
