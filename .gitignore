@@ -2,6 +2,7 @@
 node_modules/
 dist/
 coverage/
+package-lock.json
 
 # Archivos de entorno
 .env
@@ -13,6 +14,7 @@ coverage/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+yarn.lock
 
 # Archivos del sistema operativo
 .DS_Store
